@@ -1,8 +1,9 @@
 LE FICHIER DE CONFIGURATION FIREBASE ANDROID (GOOGLE-SERVICE-JSON)
 
+![IMG_0308](https://github.com/user-attachments/assets/f08326fc-e427-47a0-9faf-54d55cd3d112)
+![IMG_0307](https://github.com/user-attachments/assets/0ca3cfae-5cc4-4219-a3d7-d3b9c63b4a48)
 
 
-<img width="1064" alt="Capture d’écran 2024-09-16 à 18 47 41" src="https://github.com/user-attachments/assets/ba5c1a8e-c3c4-466c-b96e-5fc2461845b8">
 
 UTISATION DE FIREBASE POUR APPLICATION:
 
