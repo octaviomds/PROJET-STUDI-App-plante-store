@@ -1,6 +1,8 @@
 LE FICHIER DE CONFIGURATION FIREBASE ANDROID (GOOGLE-SERVICE-JSON)
 
 ![IMG_0308 2](https://github.com/user-attachments/assets/85eb4863-60ed-4271-9926-e969e2d15cc7)
+
+
 ![IMG_0307 2](https://github.com/user-attachments/assets/82bab796-eaf5-444d-8356-68bb89030ff6)
 
 
