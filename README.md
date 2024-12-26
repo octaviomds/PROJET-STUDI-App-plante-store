@@ -5,6 +5,9 @@ LE FICHIER DE CONFIGURATION FIREBASE ANDROID (GOOGLE-SERVICE-JSON)
 
 ![IMG_0307 2](https://github.com/user-attachments/assets/82bab796-eaf5-444d-8356-68bb89030ff6)
 
+exemple react:
+
+![Capture d’écran 2024-12-26 à 23 47 07](https://github.com/user-attachments/assets/840afaa2-5101-4704-bb49-63d5240016bf)
 
 
 UTISATION DE FIREBASE POUR APPLICATION:
